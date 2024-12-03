@@ -1,11 +1,11 @@
 [package]
-name = "rustdesk"
-version = "1.3.4"
-authors = ["rustdesk <info@rustdesk.com>"]
+name = "xingyan"
+version = "1.3.5"
+authors = ["xingyan <1003168@qq.com>"]
 edition = "2021"
 build= "build.rs"
-description = "RustDesk Remote Desktop"
-default-run = "rustdesk"
+description = "xingyan Remote Desktop"
+default-run = "xingyan"
 rust-version = "1.75"
 
 [lib]
